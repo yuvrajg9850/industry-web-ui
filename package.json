@@ -1,9 +1,9 @@
 {
-  "name": "gumate-industries",
+  "name": "industry-web-ui",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://sgumatepersonal.github.io/gumate-industries",
+  "homepage": "https://yuvrajg9850.github.io/industry-web-ui",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
