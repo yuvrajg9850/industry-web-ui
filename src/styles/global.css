@@ -162,7 +162,7 @@ a {
   min-height: 530px;
   padding: 26px 34px 14px;
   background: linear-gradient(rgba(196, 196, 196, 0.75), rgba(196, 196, 196, 0.75)),
-    url('/images/workstation.png.png') center/cover no-repeat;
+    url(/public/images/workstation.png) center/cover no-repeat;
 }
 
 .hero-copy {

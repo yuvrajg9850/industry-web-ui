@@ -12,17 +12,17 @@ function App() {
 
   const productCards = [
     {
-      image: '/images/flat-machine.jpeg.jpeg',
+      image: '/public/images/flat-machine.jpeg',
       title: 'Press Parts',
       description: 'Manufactures of press parts, tools, dies, press and assembly components.',
     },
     {
-      image: '/images/stamping-die.png.png',
+      image: '/public/images/stamping-die.png',
       title: 'Custom Tools & Dies',
       description: 'Custom tools & dies, design engineering, and reliable fabrication support.',
     },
     {
-      image: '/images/metal-detector.png.png',
+      image: '/public/images/metal-detector.png',
       title: 'Press Parts',
       description: 'Custom tools & dies design, fabrication, and precision assembly solutions.',
     },
@@ -69,7 +69,7 @@ function App() {
 
             <div className="hero-media" aria-label="Manufacturing floor image">
               <div className="iso-badge">ISO-9001:2015</div>
-              <img src="/images/workstation.png.png" alt="Manufacturing workshop" />
+              <img src="/public/images/workstation.png" alt="Manufacturing workshop" />
             </div>
           </section>
 
